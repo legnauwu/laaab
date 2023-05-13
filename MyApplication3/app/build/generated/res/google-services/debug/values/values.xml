@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">90215742790-misfl8egcjnul6jj3p6kp1v2c63er0f9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">90215742790</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEIGNQtp5sHZDZKfnR5Do-Tbrj1_U4mdA</string>
+    <string name="google_app_id" translatable="false">1:90215742790:android:3a878a41dcdb23bc80b947</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEIGNQtp5sHZDZKfnR5Do-Tbrj1_U4mdA</string>
+    <string name="google_storage_bucket" translatable="false">inventariarte-71bd9.appspot.com</string>
+    <string name="project_id" translatable="false">inventariarte-71bd9</string>
+</resources>
